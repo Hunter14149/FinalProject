@@ -1,0 +1,103 @@
+[  
+    {  
+        "level":"0",
+	"question":[  
+            "Local System Startup",
+	    "Bootup Complete",
+            "Version 1.0.0",
+	    "Version 2018 all rights reserved",
+	    "",
+            "Game Story:",
+            "Co-worker has recently by disappeared",
+  	    "You need to hack into your companies",
+            "Computer systems to find the last email",
+            "Indicating where your Co-worker might be",
+            "",
+     	    "type 'get started help' for help",
+ 	    "localhost>"
+        ],
+    },
+    {  
+        "level":"1",
+        "question":[  
+            "",
+	    "Level 0 passed>",
+            "",
+            "bring up the list of files on this the system",
+            "Lets find out what Jim was hiding"
+        ],
+    },
+    {  
+        "level":"2",
+        "question":[  
+            "",
+	    "Level 1 passed>",
+            ""
+
+        ],
+    },
+    {  
+        "level":"3",
+        "question":[  
+            "",
+	    "Level 2 passed>",
+            ""
+        ],
+    },
+    {  
+        "level":"4",
+        "question":[  
+            "",
+	    "Level 3 passed>",
+            ""
+        ],
+    },
+    {  
+        "level":"5",
+        "question":[  
+            "",
+	    "Level 4 passed>",
+            ""
+        ],
+    },
+    {  
+        "level":"6",
+        "question":[  
+            "",
+	    "Level 5 passed>",
+            ""
+        ],
+    },
+    {  
+        "level":"7",
+        "question":[  
+            "",
+	    "Level 6 passed>",
+            ""
+        ],
+    },
+    {  
+        "level":"8",
+        "question":[  
+            "",
+	    "Level 7 passed>",
+            ""
+        ],
+    },
+    {  
+        "level":"9",
+        "question":[  
+            "",
+	    "Level 8 passed>",
+            ""
+        ],
+    },
+    {  
+        "level":"10",
+        "question":[  
+            "",
+	    "Level 9 passed>",
+            ""
+        ],
+    },
+]

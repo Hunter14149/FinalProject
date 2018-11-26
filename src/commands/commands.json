@@ -1,0 +1,32 @@
+[  
+    {  
+        "command":"help",
+        "consoleText":[  
+            " localhost> help",
+            " alt show alternative commands",
+            " exit exits this localhost",
+	    " help display this menu",
+            " ls list file in this directory",
+            " type [file] type out file contents",
+            " localhost>"
+        ],
+    },
+    {  
+        "command":"alt",
+        "consoleText":[  
+            " localhost> alt",
+            " alt display these commands",
+            " clr clear the screen",
+            " localhost>"
+        ],
+    },
+    {  
+        "command":"ls",
+        "consoleText":[  
+            " localhost> ls",
+            " File list:",
+            " readme    lkrw",
+            " localhost>"
+        ],
+    }
+]
