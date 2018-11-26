@@ -193,7 +193,7 @@ public class mainWindow {
 	public static void PlayTheme() {
 		if (true) {
 			File file = new File(
-					"/Users/hunterallen/Desktop/University/CSC191/Final-CSC-191/dee_yan_key_01_driving_home.wav");
+					"dee_yan_key_01_driving_home.wav");
 			Clip clip = null;
 			try {
 				clip = AudioSystem.getClip();
